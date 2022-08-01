@@ -1,0 +1,34 @@
+Person classiniz var
+
+Fieldleri ashagidaklirdi:
+
+1:) Name
+2:) Surname
+3:) Age
+4:)isMarried
+
+
+3-cure constructor movcuddur:
+
+1:)Parametrsiz
+2:)Yalniz Name ve Surname set olunsu
+3:)Age ve isMarried set olunsun ve instance alanda Name ve Surname teleb elesin
+
+
+
+Bu class-dan instance alirsiz ve deyerleri oturursuz.
+
+
+ShowInfo methodunuz var hansi ki bu classin melumatlarini chixardir
+
+
+Bu classdan inheritance alan Student classi var
+Fieldler:
+1:)Degree
+2:)isHigh
+
+Constructor da yalniz bu iki fieldi set etmekle butun melumatlarin istemesi teleb olunur.
+
+ShowInfo methodunu override etmekle bu studentin melumatlarini chixardin
+
+
